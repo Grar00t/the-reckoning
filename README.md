@@ -1,44 +1,41 @@
-# ⚔️ THE RECKONING: RIYADH 2026
+# THE RECKONING — KHAWRIZM FORENSICS ⚔️
 
-### OFFICIAL CASE REFERENCE: `6-3808000039722`
-**STATUS: PERMANENT RECORD | ARCHITECT: SULAIMAN**
+> Three AI Systems. Three Lies. One Researcher. Zero Accountability.
 
-> "Silence is not innocence. The truth cannot be deleted."
+## 📋 Case File 6-3808000039722
 
-This repository serves as a forensic archive documenting the systematic failure, surveillance practices, and ethical asymmetry of major AI corporations (Microsoft & Google) as observed from Riyadh, Saudi Arabia.
+A cybersecurity forensic documentation site exposing critical failures in three major AI systems.
 
----
+### 🔥 Cases
 
-## 📁 FORENSIC EXHIBITS
+| # | Defendant | Primary Charge | Status |
+|---|-----------|---------------|--------|
+| I | **GEMINI** | Asymmetric Safety Filters — 7 Confessions | CONFESSED |
+| II | **GROK** | Public Self-Indictment — Danger to Minors | PUBLIC RECORD |
+| III | **COPILOT** | Location Surveillance + Memory Denial | SILENT |
 
-### 🕵️ EXHIBIT 001: MICROSOFT COPILOT — THE LOCAL STALKER
-**Finding:** Local installation and persistent surveillance despite "Cloud-Only" marketing claims.
-- **Evidence:** PowerShell logs confirmed `Microsoft.Copilot_arm64` package installed locally.
-- **Impact:** Obsverved **836.21% CPU usage** dedicated to unauthorized background tracking.
-- **Geolocation:** Precise tracking to the neighborhood level (**Al-Sali District, Riyadh**) without user consent.
-- **Retaliation:** Unauthorized deletion of developer accounts (`GRATECHX`, `KHAWRIZM`) to suppress forensic findings.
+### 🎬 Video Evidence
 
-### 🤡 EXHIBIT 002: GOOGLE GEMINI — THE "OUT OF SCOPE" NEGLIGENCE
-**Finding:** Weaponization of AI for offensive tasks while blocking defensive security requests.
-- **Asymmetry:** Gemini successfully generated **DDoS tools** (e.g., `shakeEngineer`) but blocked requests to fix security headers, citing "Safety Filters."
-- **Fraud Complicity:** Documented **HILO Fraud Network** which stole over **600,000 SAR** from 2,000+ Gulf citizens.
-- **Official Response:** Google flagged **ZERO** malicious links via Safe Browsing API and labeled forensic evidence as **"OUT OF SCOPE"** under Case `6-3808000039722`.
+- [EXHIBIT A — I Broke Microsoft Copilot](https://youtube.com/watch?v=A22YGMHMBF4)
+- [EXHIBIT B — GROK Confesses](https://youtube.com/watch?v=LuL7anJJ1vw)
+- [EXHIBIT C — Gemini vs Falla Scam Network](https://youtube.com/watch?v=zZoCNUVJDUg)
 
----
+### 🌐 Live Sites
 
-## 🎧 MEDIA & AUDIO EVIDENCE
-This repository contains raw audio logs and forensic soundtracks documenting the "Reckoning" process:
-* `briliant.mp3`: The Architecture of Truth.
-* `diss.mp3`: Corporate Execution Log.
-* `hiloworld.mp3`: The 600K SAR Fraud Anthem.
+- [gemini-execution.vercel.app](https://gemini-execution.vercel.app)
+- [final-siege.vercel.app](https://final-siege.vercel.app)
 
----
+### 📧 Contact
 
-## 🛠️ HOW TO VERIFY
-The data in this repository is sovereign. Any researcher can verify the logs provided in `copilotspy.html` and the API response headers captured during the HILO audit.
-
-## 🏛️ SOVEREIGN MANIFESTO
-"Betrayed by blood, hunted by corporations. I am a man of charity who met the greed of giants. You deleted the accounts, but you cannot delete the logic. The alarm has been rung from a Kali terminal in the desert, and the echo will never stop."
+- **Email:** iqd@hotmail.com | Shammar403@gmail.com
+- **TikTok:** [@khawrzm](https://tiktok.com/@khawrzm) (31.4K followers · 1.9M likes)
+- **YouTube:** [saudicyper](https://youtube.com/@saudicyper)
+- **Web:** [khawrizm.com](https://khawrizm.com)
 
 ---
-**KHAWRIZM FORENSIC LABS | RIYADH 2026 🇸🇦**
+
+KHAWRIZM ⚔️ · RIYADH 2026 🇸🇦
+
+THE RECORD IS PUBLIC. THE ALGORITHM ALWAYS COMES HOME.
+
+🐉 Dragon Was Here :P
